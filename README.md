@@ -1,4 +1,4 @@
- ![CODE CODIX logo final](https://user-images.githubusercontent.com/86312558/144681648-6491a283-495e-486f-a4cc-3581294cdc19.png)
+ ![CODE CODIX logo final](https://images.pexels.com/photos/879109/pexels-photo-879109.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 # How's it going ? I'm Oscar 👋
 
