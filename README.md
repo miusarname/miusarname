@@ -31,8 +31,8 @@ This is my ✨ _personal_ ✨ repository who will show you who I am..
 
 <p align="center">
  <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
-<a href="https://www.linkedin.com/in/oscar-mauricio-a-g%C3%B3mez-280471217/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Piyush%20Agarwal-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:oscarmauricioalvarezgomez@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-piyushagarwalvo@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/oscar-mauricio-a-g%C3%B3mez-280471217/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:oscarmauricioalvarezgomez@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
- <!--⭐️ From [Piyush Agarwal](https://github.com/piyush-eon)-->
+ <!--⭐️ From [Oscar M Alvarez](https://github.com/piyush-eon)-->
