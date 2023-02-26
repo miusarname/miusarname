@@ -28,7 +28,7 @@ This is my ✨ _personal_ ✨ repository who will show you who I am..
 
 ![Oscar's github stats](https://github-readme-stats.vercel.app/api?username=miusarname&theme=tokyonight&show_icons=true&hide=["issues"])
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miusarname&theme=tokyonight&layout=compact)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miusarname&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ![](https://komarev.com/ghpvc/?username=miusarname)
 
